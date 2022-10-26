@@ -5,3 +5,6 @@ Hyderabad
 London
 Rome
 New Dehli
+Los Angeles
+New York
+Chicago
