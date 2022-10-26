@@ -8,3 +8,5 @@ New Dehli
 Los Angeles
 New York
 Chicago
+Paris 
+Pittsburg
